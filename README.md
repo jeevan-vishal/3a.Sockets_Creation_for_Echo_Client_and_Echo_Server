@@ -8,11 +8,13 @@ Sockets Links.
 3. Send message to the client and receive the message from the client using the Socket module in
  server .
 4. Send and receive the message using the send function in socket.
-## PROGRAM
 
-Developed by : **RAVIPRASATH K**
 
-Reg no : **212224230225**
+### Developed by : Jeevan Vishal.G.D
+
+### Reg no : 212224240062
+
+## PROGRAM:
 
 ### Client 
 ```python
